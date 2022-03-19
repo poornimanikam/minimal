@@ -1,7 +1,7 @@
 ---
 # Data Science Portfolio
 ---
-## Machine learning
+## Machine Learning
 
 ---
 
